@@ -1,2 +1,2 @@
 # holamundo
-mi primer resposito
+mi primer repositorio
